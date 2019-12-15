@@ -1,0 +1,43 @@
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p,
+form, input, div {
+  margin: 0;
+  padding: 0;
+}
+
+
+.header{
+    height:200px;
+    background-image:url('bk.jpg');
+    background-size:cover;
+    
+}
+
+body{
+
+background-image:url('467009.jpg');
+
+}
+
+.header-tp{
+    font-size:56px;
+    color:#396FF9;
+    padding:60px 40px;
+    letter-spacing:6px;
+    font-weight:bold;
+}
+
+.edit{
+  margin:40px 40px;
+  padding:20px 40px;
+  font-size:20px;
+  letter-spacing:2px;
+  margin-bottom:10px;
+  color:white;
+    
+}
+
+.wot{
+    margin:20px 10px;
+}
